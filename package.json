@@ -1,0 +1,15 @@
+{
+  "name": "kentico-onboarding-server-js",
+  "version": "1",
+  "description": "Server function to handle requests from kentico-onboarding-js written as Azure function",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaclavm/kentico-onboarding-server-js"
+  },
+  "author": "Vaclav Malinak (vaclavm@kentico.com)",
+  "license": "MIT",
+  "dependencies": {
+    "azure-function-express": "^2.0.0",
+    "express": "^4.16.4"
+  }
+}
